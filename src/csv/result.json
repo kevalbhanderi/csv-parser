@@ -1,0 +1,44 @@
+[
+  {
+    "type": "return",
+    "value": {
+      "customerId": "bc1aa090-ac0f-11ea-b982-89011e7328f3",
+      "details": {
+        "ATM Id": "CA002153",
+        "Card number": "xxxxxx7561",
+        "Date of transaction": "Dec-17-2020",
+        "Day of week": "Thursday",
+        "Hour of transaction": 19,
+        "Hour period of transaction": "Dec-17-2020 19-20 PM",
+        "Receipt": "            Date: 12/17/2020 07:10:10 PM ATM ID: CA002153 Sequence Number: 003869Card Number: xxxxxx7561Transaction Type: Balance inquirySource Code: Host Decision, Return  Card                   Response Code: Transaction Approved,  Available Or Payment   Balance Only           ",
+        "Received Response Code": "502",
+        "Response Code": "02",
+        "Response Code Text": "Transaction approved, available or payment balance only",
+        "Response Source Code": "5",
+        "Sequence Number": "003869",
+        "Solink Id": "CA002153-003869",
+        "Source Code Text": "Host decision, return card",
+        "Terminal ID": "CA002153",
+        "Terminal Type": "ATM",
+        "Time of transaction": 1910,
+        "Total Amount": 0,
+        "Total Deposit": 0,
+        "Total Withdrawal": 0,
+        "Transaction ID": "003869",
+        "Transaction type": "Balance inquiry",
+        "externalId": "CA002153"
+      },
+      "endTime": "2020-12-18T03:10:10.000Z",
+      "isRealtime": false,
+      "locationId": "d29bdb60-d9bf-11e7-a3e0-97e070186048",
+      "startTime": "2020-12-18T03:10:10.000Z",
+      "state": "CLOSED",
+      "subtitle": "ATM CA002153 @ 250 WILDCAT DRIVE,BRAWLEY,CA",
+      "subtype": "fiserveCore",
+      "timezoneId": "America/Los_Angeles",
+      "title": "Balance inquiry",
+      "transactionId": "003869-CA002153",
+      "type": "transaction"
+    }
+  }
+]
